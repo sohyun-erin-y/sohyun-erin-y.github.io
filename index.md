@@ -2,11 +2,25 @@
 
 Hi my name is Sohyun Yang :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Contact Info. 
+Instagram: @eeerensy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mail: summeri9575@ewhain.net
+
+### 소속
+
+Ewha Womans University - School of Business 23'
+
+Majoring: Business Administration / Entrepreneurship
+
+Minoring: International Office Administration
+
+### 동아리
+
+Enactus Ewha : 21.04~ 
+ ㅣ SoME : 21.04~
+ ㅣ @your.nzm : 21.08~
 
 ```markdown
 Syntax highlighted code block
