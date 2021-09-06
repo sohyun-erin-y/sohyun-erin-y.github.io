@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 # Record of Hyun
 ![인액터스 이화](https://modo-phinf.pstatic.net/20171127_42/1511758116125qeU9s_PNG/mosaT26YMO.png?type=f320_320)
-_**Enactus Ewha**__
+_**Enactus Ewha**_
 
 ![썸](https://cf-cpi.campuspick.com/activity/159488529737467_thumb.jpg)
 _**SoME 20TH**_
